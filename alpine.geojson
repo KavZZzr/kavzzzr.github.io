@@ -1,0 +1,889 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.366122,
+                    -36.428319
+                ]
+            },
+            "properties": {
+                "webLinks": [
+                    {
+                        "linkText": "Kosciuszko Road reference points",
+                        "linkURL": "https://drive.google.com/file/d/1hm88E7O7mCA8lTmHS88Zeo-tUIISfWHj/view"
+                    },
+                    {
+                        "linkText": "Driving in the snow",
+                        "linkURL": "https://roadsafety.transport.nsw.gov.au/stayingsafe/drivers/badweather/snowdriving.html"
+                    },
+                    {
+                        "linkText": "Kosciuszko National Park alerts",
+                        "linkURL": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/kosciuszko-national-park/local-alerts"
+                    }
+                ],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": false,
+                "publicTransport": "",
+                "impactingNetwork": true,
+                "subCategoryB": null,
+                "arrangementAttachments": [],
+                "isInitialReport": false,
+                "created": "30 May 2022 5:09PM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Plan your journey",
+                "adviceB": " ",
+                "adviceC": " ",
+                "incidentKind": "Unplanned",
+                "mainCategory": "SNOW AND ICE",
+                "lastUpdated": "6 August 2022 7:41AM",
+                "otherAdvice": "This section of road will now be closed until the end of the snow season.",
+                "arrangementElements": [],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "displayName": "ALPINE CONDITIONS Snow season road closure",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "",
+                "delay": "",
+                "locationQualifier": "at",
+                "mainStreet": "Kosciuszko Road",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Snowy Mountains",
+                "secondLocation": "",
+                "suburb": "Perisher Valley to Charlotte Pass",
+                "trafficVolume": "",
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.388504,
+                    -35.970855
+                ]
+            },
+            "properties": {
+                "webLinks": [
+                    {
+                        "linkText": "Alpine Way reference points",
+                        "linkURL": "https://drive.google.com/file/d/1KLA1bwBv08464odOdr7J6CEiyk0LkCIf/view"
+                    },
+                    {
+                        "linkText": "Snowy Mountains Highway/Selwyn reference points",
+                        "linkURL": "https://drive.google.com/file/d/1sfCRL_v61B5Pen1WwTs_KahTt9Xvm4g-/view"
+                    },
+                    {
+                        "linkText": "Driving in the snow",
+                        "linkURL": "https://roadsafety.transport.nsw.gov.au/stayingsafe/drivers/badweather/snowdriving.html"
+                    },
+                    {
+                        "linkText": "Kosciuszko Road reference points",
+                        "linkURL": "https://drive.google.com/file/d/1hm88E7O7mCA8lTmHS88Zeo-tUIISfWHj/view"
+                    }
+                ],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": false,
+                "publicTransport": "",
+                "impactingNetwork": true,
+                "subCategoryB": null,
+                "arrangementAttachments": [],
+                "isInitialReport": false,
+                "created": "31 May 2022 11:49AM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Plan your journey",
+                "adviceB": " ",
+                "adviceC": " ",
+                "incidentKind": "Unplanned",
+                "mainCategory": "ALPINE CONDITIONS",
+                "lastUpdated": "6 August 2022 7:41AM",
+                "otherAdvice": "This section of road will now be closed until the end of the snow season.",
+                "arrangementElements": [],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "displayName": "ALPINE CONDITIONS Snow season road closure",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "Kings Cross Road",
+                "delay": "",
+                "locationQualifier": "between",
+                "mainStreet": "Snow Ridge Road/Tooma Road",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Snowy Mountains",
+                "secondLocation": "Alpine Way",
+                "suburb": "Cabramurra to Khancoban",
+                "trafficVolume": "",
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.412833,
+                    -35.930654
+                ]
+            },
+            "properties": {
+                "webLinks": [
+                    {
+                        "linkText": "Kosciuszko National Park alerts",
+                        "linkURL": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/kosciuszko-national-park/local-alerts"
+                    },
+                    {
+                        "linkText": "Driving in the snow",
+                        "linkURL": "https://roadsafety.transport.nsw.gov.au/stayingsafe/drivers/badweather/snowdriving.html"
+                    },
+                    {
+                        "linkText": "Snowy Mountains Highway/Selwyn reference points",
+                        "linkURL": "https://drive.google.com/file/d/1sfCRL_v61B5Pen1WwTs_KahTt9Xvm4g-/view"
+                    },
+                    {
+                        "linkText": "Alpine Way reference points",
+                        "linkURL": "https://drive.google.com/file/d/1KLA1bwBv08464odOdr7J6CEiyk0LkCIf/view"
+                    }
+                ],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": false,
+                "publicTransport": "",
+                "impactingNetwork": true,
+                "subCategoryB": null,
+                "arrangementAttachments": [],
+                "isInitialReport": false,
+                "created": "1 June 2022 12:45PM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Plan your journey",
+                "adviceB": " ",
+                "adviceC": " ",
+                "incidentKind": "Unplanned",
+                "mainCategory": "ALPINE CONDITIONS",
+                "lastUpdated": "15 August 2022 12:49AM",
+                "otherAdvice": "This section of road will now be closed until the end of the snow season.",
+                "arrangementElements": [],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "displayName": "ALPINE CONDITIONS Snow season road closure",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "",
+                "delay": "",
+                "locationQualifier": "at",
+                "mainStreet": "Kings Cross Road",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Snowy Mountains",
+                "secondLocation": "",
+                "suburb": "Selwyn to Cabramurra",
+                "trafficVolume": "",
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.419801,
+                    -36.381385
+                ]
+            },
+            "properties": {
+                "webLinks": [
+                    {
+                        "linkText": "Snowy Mountains Highway/Selwyn reference points",
+                        "linkURL": "https://drive.google.com/file/d/1sfCRL_v61B5Pen1WwTs_KahTt9Xvm4g-/view"
+                    },
+                    {
+                        "linkText": "Alpine Way reference points",
+                        "linkURL": "https://drive.google.com/file/d/1KLA1bwBv08464odOdr7J6CEiyk0LkCIf/view"
+                    },
+                    {
+                        "linkText": "Driving in the snow",
+                        "linkURL": "https://roadsafety.transport.nsw.gov.au/stayingsafe/drivers/badweather/snowdriving.html"
+                    },
+                    {
+                        "linkText": "Kosciuszko National Park alerts",
+                        "linkURL": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/kosciuszko-national-park/local-alerts"
+                    }
+                ],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": false,
+                "publicTransport": "",
+                "impactingNetwork": true,
+                "subCategoryB": null,
+                "arrangementAttachments": [],
+                "isInitialReport": false,
+                "created": "1 June 2022 12:37PM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Plan your journey",
+                "adviceB": " ",
+                "adviceC": " ",
+                "incidentKind": "Unplanned",
+                "mainCategory": "ALPINE CONDITIONS",
+                "lastUpdated": "25 August 2022 6:22AM",
+                "otherAdvice": "Link Road will remain closed for the snow season.",
+                "arrangementElements": [],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "displayName": "ALPINE CONDITIONS snow season road closure",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "",
+                "delay": "",
+                "locationQualifier": "at",
+                "mainStreet": "Link Road",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Snowy Mountains",
+                "secondLocation": "",
+                "suburb": "Smiggin Holes to Guthega",
+                "trafficVolume": "",
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.142608,
+                    -35.8529
+                ]
+            },
+            "properties": {
+                "webLinks": [
+                    {
+                        "linkText": "Snowy Mountains Highway/Selwyn reference points",
+                        "linkURL": "https://drive.google.com/file/d/1sfCRL_v61B5Pen1WwTs_KahTt9Xvm4g-/view"
+                    },
+                    {
+                        "linkText": "Alpine Way reference points",
+                        "linkURL": "https://drive.google.com/file/d/1KLA1bwBv08464odOdr7J6CEiyk0LkCIf/view"
+                    },
+                    {
+                        "linkText": "Driving in the snow",
+                        "linkURL": "https://roadsafety.transport.nsw.gov.au/stayingsafe/drivers/badweather/snowdriving.html"
+                    },
+                    {
+                        "linkText": "Kosciuszko Road reference points",
+                        "linkURL": "https://drive.google.com/file/d/1hm88E7O7mCA8lTmHS88Zeo-tUIISfWHj/view"
+                    }
+                ],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": false,
+                "publicTransport": "",
+                "impactingNetwork": true,
+                "subCategoryB": null,
+                "arrangementAttachments": [],
+                "isInitialReport": false,
+                "created": "2 June 2022 8:35AM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Avoid the area",
+                "adviceB": "Plan your journey",
+                "adviceC": " ",
+                "incidentKind": "Unplanned",
+                "mainCategory": "ALPINE CONDITIONS",
+                "lastUpdated": "2 September 2022 5:46AM",
+                "otherAdvice": "The road is closed due to a landslip.Access to O&#39;Hares Campground is available from Tooma Rd (near Tumbarumba) only. Chains must be carried in Kosciuszko National Park in winter (4WDs exempt).All motorists should be prepared and equipped for sudden changes in road and weather conditions in Alpine areas.",
+                "arrangementElements": [],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": [
+                    "NPWS"
+                ],
+                "displayName": "ALPINE CONDITIONS",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "",
+                "delay": "",
+                "locationQualifier": "at",
+                "mainStreet": "Elliott Way",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Snowy Mountains",
+                "secondLocation": "",
+                "suburb": "Tumbarumba to Selwyn",
+                "trafficVolume": "",
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Closed",
+                "numberOfLanes": "",
+                "roadType": "Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.472257,
+                    -35.877734
+                ]
+            },
+            "properties": {
+                "webLinks": [
+                    {
+                        "linkText": "Snowy Mountains Highway/Selwyn reference points",
+                        "linkURL": "https://drive.google.com/file/d/1sfCRL_v61B5Pen1WwTs_KahTt9Xvm4g-/view"
+                    },
+                    {
+                        "linkText": "Driving in the snow",
+                        "linkURL": "https://roadsafety.transport.nsw.gov.au/stayingsafe/drivers/badweather/snowdriving.html"
+                    },
+                    {
+                        "linkText": "Kosciuszko National Park alerts",
+                        "linkURL": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/kosciuszko-national-park/local-alerts"
+                    }
+                ],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": false,
+                "publicTransport": "",
+                "impactingNetwork": true,
+                "subCategoryB": null,
+                "arrangementAttachments": [],
+                "isInitialReport": false,
+                "created": "6 June 2022 6:51AM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Exercise caution",
+                "adviceB": "Check signage",
+                "adviceC": " ",
+                "incidentKind": "Unplanned",
+                "mainCategory": "ALPINE CONDITIONS",
+                "lastUpdated": "5 September 2022 5:47AM",
+                "otherAdvice": "The road is open.Chains must be carried in Kosciuszko National Park in winter (4WDs exempt).All motorists should be prepared and equipped for sudden changes in road and weather conditions in Alpine areas.",
+                "arrangementElements": [],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "displayName": "ALPINE CONDITIONS",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "Snowy Mountains Highway",
+                "delay": "",
+                "locationQualifier": "between",
+                "mainStreet": "Link Road",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Snowy Mountains",
+                "secondLocation": "Selwyn Snow Resort",
+                "suburb": "Kosciuszko National Park",
+                "trafficVolume": "",
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.238274,
+                    -36.432721
+                ]
+            },
+            "properties": {
+                "webLinks": [
+                    {
+                        "linkText": "Driving in the snow",
+                        "linkURL": "https://roadsafety.transport.nsw.gov.au/stayingsafe/drivers/badweather/snowdriving.html"
+                    }
+                ],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": false,
+                "publicTransport": "",
+                "impactingNetwork": true,
+                "subCategoryB": null,
+                "arrangementAttachments": [],
+                "isInitialReport": false,
+                "created": "9 June 2022 7:16AM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Check signage",
+                "adviceB": "Exercise caution",
+                "adviceC": " ",
+                "incidentKind": "Unplanned",
+                "mainCategory": "ALPINE CONDITIONS",
+                "lastUpdated": "5 September 2022 6:19AM",
+                "otherAdvice": "The road is open. ",
+                "arrangementElements": [],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "displayName": "ALPINE CONDITIONS",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "",
+                "delay": "",
+                "locationQualifier": "at",
+                "mainStreet": "Monaro Highway/Snowy Mountains Highway",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Snowy Mountains",
+                "secondLocation": "",
+                "suburb": "Cooma to Brown Mountain (Nimmitabel)",
+                "trafficVolume": "",
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": "Highway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.495689,
+                    -35.879339
+                ]
+            },
+            "properties": {
+                "webLinks": [
+                    {
+                        "linkText": "Snowy Mountains Highway/Selwyn reference points",
+                        "linkURL": "https://drive.google.com/file/d/1sfCRL_v61B5Pen1WwTs_KahTt9Xvm4g-/view"
+                    },
+                    {
+                        "linkText": "Driving in the snow",
+                        "linkURL": "https://roadsafety.transport.nsw.gov.au/stayingsafe/drivers/badweather/snowdriving.html"
+                    },
+                    {
+                        "linkText": "Kosciuszko National Park current alerts",
+                        "linkURL": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/kosciuszko-national-park/local-alerts"
+                    }
+                ],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": false,
+                "publicTransport": "",
+                "impactingNetwork": true,
+                "subCategoryB": null,
+                "arrangementAttachments": [],
+                "isInitialReport": false,
+                "created": "30 May 2022 1:33PM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Exercise caution",
+                "adviceB": "Check signage",
+                "adviceC": " ",
+                "incidentKind": "Unplanned",
+                "mainCategory": "ALPINE CONDITIONS",
+                "lastUpdated": "5 September 2022 6:39AM",
+                "otherAdvice": "The road is open.",
+                "arrangementElements": [],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "displayName": "ALPINE CONDITIONS",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "",
+                "delay": "",
+                "locationQualifier": "at",
+                "mainStreet": "Snowy Mountains Highway",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Snowy Mountains",
+                "secondLocation": "",
+                "suburb": "Adaminaby to Talbingo",
+                "trafficVolume": "",
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": "Highway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.489489,
+                    -36.348545
+                ]
+            },
+            "properties": {
+                "webLinks": [
+                    {
+                        "linkText": "Kosciuszko Road Reference points",
+                        "linkURL": "https://drive.google.com/file/d/1hm88E7O7mCA8lTmHS88Zeo-tUIISfWHj/view"
+                    },
+                    {
+                        "linkText": "Driving in the snow",
+                        "linkURL": "https://roadsafety.transport.nsw.gov.au/stayingsafe/drivers/badweather/snowdriving.html"
+                    },
+                    {
+                        "linkText": "Kosciuszko National Park current alerts",
+                        "linkURL": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/kosciuszko-national-park/local-alerts"
+                    },
+                    {
+                        "linkText": "Skitube",
+                        "linkURL": "https://www.perisher.com.au/plan-your-trip/new-to-perisher/skitube"
+                    }
+                ],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": false,
+                "publicTransport": "",
+                "impactingNetwork": true,
+                "subCategoryB": null,
+                "arrangementAttachments": [],
+                "isInitialReport": false,
+                "created": "1 June 2022 1:12PM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Exercise caution",
+                "adviceB": " ",
+                "adviceC": " ",
+                "incidentKind": "Unplanned",
+                "mainCategory": "ALPINE CONDITIONS",
+                "lastUpdated": "6 September 2022 5:48AM",
+                "otherAdvice": "Caution: Icy stretches from Kosciuszko Road entry to the resort.Chains must be carried in Kosciuszko National Park in winter (4WDs exempt).All motorists should be prepared and equipped for sudden changes in road and weather conditions in Alpine areas.",
+                "arrangementElements": [],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "displayName": "ALPINE CONDITIONS",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "Kosciuszko Road",
+                "delay": "",
+                "locationQualifier": "between",
+                "mainStreet": "Guthega Road",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Snowy Mountains",
+                "secondLocation": "Guthega Village",
+                "suburb": "Kosciuszko National Park",
+                "trafficVolume": "",
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.443038,
+                    -36.389907
+                ]
+            },
+            "properties": {
+                "webLinks": [
+                    {
+                        "linkText": "Kosciuszko Road reference points",
+                        "linkURL": "https://drive.google.com/file/d/1hm88E7O7mCA8lTmHS88Zeo-tUIISfWHj/view"
+                    },
+                    {
+                        "linkText": "Driving in the snow",
+                        "linkURL": "https://roadsafety.transport.nsw.gov.au/stayingsafe/drivers/badweather/snowdriving.html"
+                    },
+                    {
+                        "linkText": "Kosciuszko National Park current alerts",
+                        "linkURL": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/kosciuszko-national-park/local-alerts"
+                    },
+                    {
+                        "linkText": "Skitube",
+                        "linkURL": "https://www.perisher.com.au/plan-your-trip/new-to-perisher/skitube"
+                    }
+                ],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": false,
+                "publicTransport": "",
+                "impactingNetwork": true,
+                "subCategoryB": null,
+                "arrangementAttachments": [],
+                "isInitialReport": false,
+                "created": "1 June 2022 1:01PM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Exercise caution",
+                "adviceB": "Snow chains are required",
+                "adviceC": " ",
+                "incidentKind": "Unplanned",
+                "mainCategory": "ALPINE CONDITIONS",
+                "lastUpdated": "6 September 2022 8:55AM",
+                "otherAdvice": "Road is open to PerisherThe road is closed beyond Perisher throughout the winter period:- <a href=\"https://www.livetraffic.com/incident-details/123290\" target=\"_blank\">Kosciuszko Rd is closed between Perisher and Charlotte Pass.<a href=\"https://www.livetraffic.com/incident-details/123522\" target=\"_blank\">- Link Rd is closed between Smiggin Holes and Guthega Road.Chains must be carried in Kosciuszko National Park in winter (4WDs exempt). All motorists should be prepared and equipped for sudden changes in road and weather conditions in Alpine areas.",
+                "arrangementElements": [],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "displayName": "ALPINE CONDITIONS",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "",
+                "delay": "",
+                "locationQualifier": "at",
+                "mainStreet": "Kosciuszko Road",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Snowy Mountains",
+                "secondLocation": "",
+                "suburb": "Kosciuszko Park entry to Perisher",
+                "trafficVolume": "",
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": "Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.326263,
+                    -36.495231
+                ]
+            },
+            "properties": {
+                "webLinks": [
+                    {
+                        "linkText": "Alpine Way Reference Points",
+                        "linkURL": "https://drive.google.com/file/d/1KLA1bwBv08464odOdr7J6CEiyk0LkCIf/view"
+                    },
+                    {
+                        "linkText": "Driving in the snow",
+                        "linkURL": "https://roadsafety.transport.nsw.gov.au/stayingsafe/drivers/badweather/snowdriving.html"
+                    },
+                    {
+                        "linkText": "Kosciuszko National Park alerts",
+                        "linkURL": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/kosciuszko-national-park/local-alerts"
+                    }
+                ],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": false,
+                "publicTransport": "",
+                "impactingNetwork": true,
+                "subCategoryB": null,
+                "arrangementAttachments": [],
+                "isInitialReport": false,
+                "created": "6 June 2022 6:57AM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Exercise caution",
+                "adviceB": "Check signage",
+                "adviceC": " ",
+                "incidentKind": "Unplanned",
+                "mainCategory": "ALPINE CONDITIONS",
+                "lastUpdated": "6 September 2022 12:59PM",
+                "otherAdvice": "Road open to Thredbo. Beyond Thredbo: Caution: Icy stretches from the Cascades to the Wattles.\u00a0",
+                "arrangementElements": [],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "displayName": "ALPINE CONDITIONS",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "",
+                "delay": "",
+                "locationQualifier": "at",
+                "mainStreet": "Alpine Way",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Snowy Mountains",
+                "secondLocation": "",
+                "suburb": "Thredbo and beyond",
+                "trafficVolume": "",
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.590921,
+                    -35.833279
+                ]
+            },
+            "properties": {
+                "webLinks": [
+                    {
+                        "linkText": "Kosciuszko National Park",
+                        "linkURL": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/kosciuszko-national-park/local-alerts"
+                    },
+                    {
+                        "linkText": "Driving in the snow",
+                        "linkURL": "https://roadsafety.transport.nsw.gov.au/stayingsafe/drivers/badweather/snowdriving.html"
+                    }
+                ],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": false,
+                "publicTransport": "",
+                "impactingNetwork": false,
+                "subCategoryB": null,
+                "arrangementAttachments": [],
+                "isInitialReport": false,
+                "created": "6 June 2022 7:27AM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Snow chains are required",
+                "adviceB": "Plan your journey",
+                "adviceC": " ",
+                "incidentKind": "Unplanned",
+                "mainCategory": "ALPINE CONDITIONS",
+                "lastUpdated": "6 September 2022 1:00PM",
+                "otherAdvice": "Chains must be carried in Kosciuszko National Park in winter (4WDs exempt). All motorists should be prepared and equipped for sudden changes in road and weather conditions in Alpine areas.",
+                "arrangementElements": [],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "displayName": "ALPINE CONDITIONS",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "",
+                "delay": "",
+                "locationQualifier": "at",
+                "mainStreet": "All roads",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Snowy Mountains",
+                "secondLocation": "",
+                "suburb": "Kosciuszko National Park",
+                "trafficVolume": ""
+            }
+        }
+    ]
+}

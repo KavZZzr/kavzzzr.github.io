@@ -1,0 +1,1010 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.954174,
+                    -33.872396
+                ]
+            },
+            "properties": {
+                "webLinks": [
+                    {
+                        "linkText": "Fairfield Spring Fest 2022",
+                        "linkURL": "https://www.fairfieldcity.nsw.gov.au/Whats-on/Events-Workshops-Social-Gatherings/Major-Events/Fairfield-Spring-Fest-2022"
+                    }
+                ],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": false,
+                "publicTransport": "Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info to plan your trip.",
+                "impactingNetwork": true,
+                "subCategoryB": null,
+                "arrangementAttachments": [],
+                "isInitialReport": false,
+                "created": "24 August 2022 2:15PM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Use public transport",
+                "adviceB": "Allow extra travel time",
+                "adviceC": "Use diversions",
+                "end": 1664103600000,
+                "incidentKind": "Planned",
+                "mainCategory": "SPECIAL EVENT",
+                "lastUpdated": "25 August 2022 2:47PM",
+                "otherAdvice": "Thousands of people are expected to attend the Fairfield Spring Fest held on Harris and William Streets from 12pm to 8pm on Saturday and Sunday. <span style=\"\">From 7pm Friday 23 September, sections of William Street, Harris Street and Downey Lane will be closed until 5am Monday 26 September. Motorists will be detoured via local roads.</span>Heavy traffic is expected on roads approaching and within Fairfield while the event is underway.\u00a0Motorists are advised to allow additional travel time and be aware of increased pedestrian activity.",
+                "arrangementElements": [
+                    {
+                        "html": "<p><strong>FAIRFIELD</strong></p><p><strong>7PM FRIDAY 23 SEPTEMBER TO 5AM MONDAY 26 SEPTEMBER</strong></p><ul><li>William St between Harris St and Hamilton Rd</li><li>Harris St between Barbara St and Ware St</li><li>Southern end of Downey Lane (near Harris St)</li></ul><p><strong>NOTE: </strong>There will be limited access for residents, businesses and service vehicles to the abovementioned closures between 7pm Friday 23 September and midnight Saturday 24 September, and between midnight and 5am Monday 26 September.</p>",
+                        "title": "Road Closures",
+                        "id": "058966"
+                    }
+                ],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "duration": null,
+                "start": 1663923600000,
+                "displayName": "Festival",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "Barbara Street",
+                "delay": "",
+                "locationQualifier": "at",
+                "mainStreet": "William Street",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Sydney",
+                "secondLocation": "",
+                "suburb": "Fairfield",
+                "trafficVolume": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.692994,
+                    -34.055867
+                ]
+            },
+            "properties": {
+                "webLinks": [
+                    {
+                        "linkText": "Valleyways Festival 2022",
+                        "linkURL": "https://www.valleyways.com.au/"
+                    }
+                ],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": true,
+                "publicTransport": "Visit <a href=\"https://transportnsw.info/events/2022/09/valleyways-festival\" target=\"_blank\">transportnsw.info to plan your trip.",
+                "impactingNetwork": false,
+                "subCategoryB": null,
+                "arrangementAttachments": [],
+                "isInitialReport": false,
+                "created": "22 August 2022 3:56PM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Allow extra travel time",
+                "adviceB": " ",
+                "adviceC": " ",
+                "end": 1662813000000,
+                "incidentKind": "Planned",
+                "mainCategory": "SPECIAL EVENT",
+                "lastUpdated": "30 August 2022 4:01PM",
+                "otherAdvice": "Valleyways Festival at Onslow Oval. Start at 11:30am, finish approx. 10pm.Traffic may be heavier than usual on roads approaching and around Onslow Oval as festival-goers travel to and from the event.Motorists are advised to allow extra travel time and be aware of increased pedestrian activity in the area.",
+                "arrangementElements": [],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "duration": null,
+                "start": 1662732000000,
+                "displayName": "Festival",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "Onslow Oval",
+                "delay": "",
+                "locationQualifier": "at",
+                "mainStreet": "Cawdor Road",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Sydney",
+                "secondLocation": "",
+                "suburb": "Camden",
+                "trafficVolume": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.272665,
+                    -33.89556
+                ]
+            },
+            "properties": {
+                "webLinks": [],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": true,
+                "publicTransport": "Additional buses will run between the city, Bondi Junction and Bondi Beach. Services will be busy so be patient and allow extra travel time. Visit <a href=\"https://transportnsw.info/events/2022/09/festival-of-winds\" target=\"_blank\">transportnsw.info to plan your trip.",
+                "impactingNetwork": true,
+                "subCategoryB": null,
+                "arrangementAttachments": [
+                    {
+                        "displayName": "Festival of the Winds 2022 road closure and clearway map",
+                        "fileName": "Festival of the Winds 2022 road closure and clearway map.pdf",
+                        "fileType": "PDF",
+                        "linkName": "Festival of the Winds 2022 road closure and clearway map",
+                        "sizeInBytes": 316816,
+                        "uniqueFileName": "393071_1661839808855_Festival of the Winds 2022 road closure and clearway map.pdf"
+                    }
+                ],
+                "isInitialReport": false,
+                "created": "17 August 2022 2:37PM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Check signage",
+                "adviceB": "Use public transport",
+                "adviceC": " ",
+                "end": 1662888600000,
+                "incidentKind": "Planned",
+                "mainCategory": "SPECIAL EVENT",
+                "lastUpdated": "30 August 2022 4:10PM",
+                "otherAdvice": "Over 40,000 people are expected to attend the annual Festival of the Winds at Bondi Beach from 11am to 4pm.Traffic will be very heavy on approaches to Bondi including Bondi Rd, Syd Einfeld Dr, Old South Head Rd and Military Rd as well as local roads around Bondi Beach. Motorists are advised to avoid non-essential travel or allow plenty of extra travel time. Attendees are encouraged to catch public transport. Special event clearways will be in effect from 7am to 7pm on both sides of Bondi Rd between Old South Head Rd and Sandridge St and on sections of Campbell Pde, Hall St and Curlewis St.Clearways are strict no-parking zones and apply even to local residents or TfNSW Mobility Scheme Permit holders. Check signs before parking as vehicles left in special event clearways will be towed and a towing fee applies. If your vehicle is towed call 132 701 to find its new location.Roads around\u00a0Bondi Junction Interchange will close from 10am to 6pm including sections of Grafton St, Grosvenor St, Oxford St and Grosvenor Lane.\u00a0Access to the Queen Elizabeth Dr and Park Dr carparks will be managed under traffic control from 5am to 7pm.",
+                "arrangementElements": [
+                    {
+                        "html": "",
+                        "title": "Special Event Map Attachments",
+                        "id": "061001"
+                    },
+                    {
+                        "html": "<p><strong>BONDI JUNCTION\u00a0\u2013 FROM 10AM TO 6PM</strong></p><ul><li>Grafton Street between Grosvenor Street and Newland Street (westbound)</li><li>Grosvenor Street between Spring Street and Grafton Street (both directions)</li><li>Oxford Street between Adelaide Street and Grosvenor Street (both directions)</li><li>Grosvenor Lane between Newland Street and Grosvenor Street* (eastbound)</li></ul><p>*Resident access permitted.</p>",
+                        "title": "Road Closures",
+                        "id": "061002"
+                    },
+                    {
+                        "html": "<p>Special event clearways are <strong>strict no-parking zones</strong> and apply even to local residents or Mobility Scheme Permit holders. Check signs before parking as vehicles left in special event clearways will be towed and a towing fee applies. If your vehicle is towed call 132 701 to find its new location.</p><p><br></p><p><strong>BONDI / BONDI BEACH \u2013 FROM 7AM TO 7PM</strong></p><ul><li>Bondi Road between Old South Head Road, opposite Sandridge Street (eastbound)</li><li>Bondi Road between Sandridge Street and Oxford Street (westbound)</li><li>Campbell Parade between Hall Street and Roscoe Street (northbound)</li><li>Campbell Parade between opposite Roscoe Street and Queen Elizabeth Drive (southbound)</li><li>Curlewis Street between Gould Street and Campbell Parade (eastbound)</li><li>Hall Street between Gould Street and Campbell Parade (both directions)</li></ul>",
+                        "title": "Special Event Clearways",
+                        "id": "061003"
+                    },
+                    {
+                        "html": "<p><strong>BONDI BEACH \u2013 FROM 5AM TO 7PM</strong></p><ul><li>Park Drive Car Park between Roscoe Street and Queen Elizabeth Drive (both sides)</li><li>Queen Elizabeth Drive Car Park at Campbell Parade (northern access only)</li></ul>",
+                        "title": "Managed Access",
+                        "id": "061004"
+                    }
+                ],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "duration": null,
+                "start": 1662818400000,
+                "displayName": "Festival of the Winds",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "Old South Head Road",
+                "delay": "",
+                "locationQualifier": "between",
+                "mainStreet": "Bondi Road",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Sydney",
+                "secondLocation": "Sandridge Street",
+                "suburb": "Bondi",
+                "trafficVolume": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.021669,
+                    -33.821401
+                ]
+            },
+            "properties": {
+                "webLinks": [],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": true,
+                "publicTransport": "Visit\u00a0<a href=\"https://transportnsw.info/events/2022/09/rosehill-race-day\" target=\"_blank\">transportnsw.info\u00a0to plan your trip.",
+                "impactingNetwork": true,
+                "subCategoryB": null,
+                "arrangementAttachments": [],
+                "isInitialReport": false,
+                "created": "22 August 2022 2:55PM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Allow extra travel time",
+                "adviceB": " ",
+                "adviceC": " ",
+                "end": 1662796800000,
+                "incidentKind": "Planned",
+                "mainCategory": "SPECIAL EVENT",
+                "lastUpdated": "30 August 2022 4:24PM",
+                "otherAdvice": "Run to Rose Race Day at Rosehill Gardens Racecourse. First race at 11:40am, last race at 5:15pm.Traffic may be heavier than usual on James Ruse Dr and Hassall St as attendees arrive and leave the racecourse.Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads in the area.",
+                "arrangementElements": [],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "duration": null,
+                "start": 1662732000000,
+                "displayName": "Race Day",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "Rosehill Gardens Racecourse",
+                "delay": "",
+                "locationQualifier": "at",
+                "mainStreet": "James Ruse Drive",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Sydney",
+                "secondLocation": "",
+                "suburb": "Rosehill",
+                "trafficVolume": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.209862,
+                    -33.853497
+                ]
+            },
+            "properties": {
+                "webLinks": [
+                    {
+                        "linkText": "Sydney Running Festival 2022 event website",
+                        "linkURL": "https://sydneyrunningfestival.com.au/trafficandtransport/"
+                    },
+                    {
+                        "linkText": "TfNSW interactive road closure and clearway map - Sydney Running Festival 2022",
+                        "linkURL": "https://tfnsw.carto.com/u/transport-tmc/viz/0477298d-5f33-4b86-a436-9e3c138b4697/embed_map"
+                    }
+                ],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": false,
+                "publicTransport": "Travel on transport is covered for participants and volunteers. Extra trains and buses will run. Buses and light rail services will be affected due to road closures. Visit <a href=\"https://transportnsw.info/sydney-running-festival\" target=\"_blank\">transportnsw.info for more details and to plan your trip.",
+                "impactingNetwork": false,
+                "subCategoryB": null,
+                "arrangementAttachments": [
+                    {
+                        "displayName": "Sydney Running Festival 2022 - King St and Barangaroo Access map",
+                        "fileName": "Sydney Running Festival 2022 - King St and Barangaroo Access map.pdf",
+                        "fileType": "PDF",
+                        "linkName": "Sydney Running Festival 2022 - King St and Barangaroo Access map",
+                        "sizeInBytes": 836359,
+                        "uniqueFileName": "976388_1661732605804_Sydney Running Festival 2022 - King St and Barangaroo Access map.pdf"
+                    },
+                    {
+                        "displayName": "Sydney Running Festival 2022 - Overall course road closure and clearway map",
+                        "fileName": "Sydney Running Festival 2022 - Overall course road closure and clearway map.pdf",
+                        "fileType": "PDF",
+                        "linkName": "Sydney Running Festival 2022 - Overall course road closure and clearway map",
+                        "sizeInBytes": 1752582,
+                        "uniqueFileName": "446700_1661732650178_Sydney Running Festival 2022 - Overall course road closure and clearway map.pdf"
+                    },
+                    {
+                        "displayName": "Sydney Running Festival 2022 - Circular Quay Access map",
+                        "fileName": "Sydney Running Festival 2022 - Circular Quay Access map.pdf",
+                        "fileType": "PDF",
+                        "linkName": "Sydney Running Festival 2022 - Circular Quay Access map",
+                        "sizeInBytes": 432435,
+                        "uniqueFileName": "239287_1661732608202_Sydney Running Festival 2022 - Circular Quay Access map.pdf"
+                    },
+                    {
+                        "displayName": "Sydney Running Festival 2022 - Pyrmont Access map",
+                        "fileName": "Sydney Running Festival 2022 - Pyrmont Access map.pdf",
+                        "fileType": "PDF",
+                        "linkName": "Sydney Running Festival 2022 - Pyrmont Access map",
+                        "sizeInBytes": 989234,
+                        "uniqueFileName": "393256_1661732598063_Sydney Running Festival 2022 - Pyrmont Access map.pdf"
+                    },
+                    {
+                        "displayName": "Sydney Running Festival 2022 - North Sydney and Milsons Point Access map",
+                        "fileName": "Sydney Running Festival 2022 - North Sydney and Milsons Point Access map.pdf",
+                        "fileType": "PDF",
+                        "linkName": "Sydney Running Festival 2022 - North Sydney and Milsons Point Access map",
+                        "sizeInBytes": 728642,
+                        "uniqueFileName": "865153_1661732601282_Sydney Running Festival 2022 - North Sydney and Milsons Point Access map.pdf"
+                    },
+                    {
+                        "displayName": "Sydney Running Festival 2022 - Harbour Bridge detour route map",
+                        "fileName": "Sydney Running Festival 2022 - Harbour Bridge detour route map.pdf",
+                        "fileType": "PDF",
+                        "linkName": "Sydney Running Festival 2022 - Harbour Bridge detour route map",
+                        "sizeInBytes": 1234216,
+                        "uniqueFileName": "240484_1661732643181_Sydney Running Festival 2022 - Harbour Bridge detour route map.pdf"
+                    },
+                    {
+                        "displayName": "Sydney Running Festival 2022 - Entertainment Quarter Access map",
+                        "fileName": "Sydney Running Festival 2022 - Entertainment Quarter Access map.pdf",
+                        "fileType": "PDF",
+                        "linkName": "Sydney Running Festival 2022 - Entertainment Quarter Access map",
+                        "sizeInBytes": 1139370,
+                        "uniqueFileName": "161029_1661732593825_Sydney Running Festival 2022 - Entertainment Quarter Access map.pdf"
+                    }
+                ],
+                "isInitialReport": false,
+                "created": "25 August 2022 2:26PM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Avoid the area",
+                "adviceB": "Expect delays",
+                "adviceC": "Use an alternative route",
+                "end": 1663472700000,
+                "incidentKind": "Planned",
+                "mainCategory": "SPECIAL EVENT",
+                "lastUpdated": "1 September 2022 5:29PM",
+                "otherAdvice": "More than 35,000 people are expected to participate in one of four course for Sydney\u2019s most iconic running event, Sydney Running Festival, on Sunday 18 September. Significant road closures will be in place in the Sydney CBD, Milsons Point, Darlinghurst, Pyrmont and Moore Park between 4am and 1.30pm for Sydney Running Festival events.Major roads will close from 4am including the Sydney Harbour Bridge and the Western Distributor between Pyrmont and the City. There will be no direct vehicle access between the Harbour Bridge and Anzac Bridge until after midday. Citybound motorists on the Western Distributor will be diverted via Bathurst St off-ramp to the city and Sydney Harbour Bridge motorists will be diverted via the Harbour Tunnel. You can continue to walk, cycle or catch a train across the Sydney Harbour Bridge while it is closed to vehicle traffic.Key road closures:<ul><li>4am to 11am \u2013 Sydney Harbour Bridge, Milsons Point &amp; Darlinghurst: full closure of the Harbour Bridge including the Cahill Expressway and all on-ramps. All traffic will be diverted via the Harbour Tunnel in both directions. Motorists should consider the Victoria Rd and Gladesville Bridge detour route to travel to and from the city during this time instead as long delays are expected in the Harbour Tunnel. In Milsons Point, Alfred St South, Lavender St, Middlemiss St, Broughton St and Olympic Dr will close. In Darlinghurst, Oxford St and Flinders St will be closed.</li><li>4am to 11.30am \u2013 Sydney CBD and Circular Quay: sections of\u00a0George St, Bridge St, College St, Macquarie St, Hunter St, Phillip St and Young St will be closed.\u00a0Macquarie St north of Bridge St remains closed until 12pm.</li><li>4am to 12pm \u2013 Barangaroo and Western Distributor Pyrmont to CBD: the Western Distributor will be closed between Pyrmont and the city including all on and off-ramps. All citybound traffic on the Anzac Bridge will be diverted via the Bathurst St off-ramp. No direct access between the Anzac Bridge and Sydney Harbour Bridge until 12pm. The Pyrmont St on-ramp will remain closed until 12:30pm. Sections of Sussex St and roads in Barangaroo will also close.</li><li>4am to 12.30pm \u2013 Pyrmont: Pirrama Rd, Murray St, Bowman St, Union St and surrounding local roads will close. The northern end of Pirrama Rd and roads in Darling Island\u00a0will be closed from 1am.</li><li>4am to 1.30pm \u2013 The Rocks, Walsh Bay and Millers Point: Hickson Rd from George St to Barton St and Circular Quay West will be closed.</li></ul>Special event clearway parking restrictions will be in effect on major roads along and surrounding the course from 1am in Milsons Point, the city and Pyrmont and from 4am in Darlinghurst and Moore Park. All clearways will be lifted by 1.30pm.Clearways are strict no-parking zones for all vehicle types, and apply even to residents with local council parking permits or TfNSW Mobility Scheme Permit holders. Check signs carefully on the day and the night before as vehicles left in signposted clearways will be towed and a fee applies. If your vehicle is towed it will be relocated to the nearest available legal parking space, use the <a href=\"https://tfnswtowlink.force.com/findmycar/s/\" target=\"_blank\">Find My Car website or call 132 701 to find its new location.",
+                "arrangementElements": [
+                    {
+                        "html": "<p><strong>Kirribilli / Lavender Bay / Milsons Point / North Sydney</strong></p><p><strong>From 4am to 10am</strong></p><ul><li>Alfred St South between Olympic Dr and Paul St</li><li>Arthur St between Middlemiss St and Pacific Hwy</li><li>Bligh St between Humphrey Pl and Broughton St</li><li>Broughton St between Burton St and Olympic Dr</li><li>Ennis Rd from Broughton St</li><li>Fitzroy St between Jeffreys St and Broughton St westbound</li><li>Kirribilli Ave between Jeffreys St and Broughton St</li><li>Lavender St between Cliff St and Alfred St South</li><li>Lavender St*1 between Walker St and Cliff St eastbound</li><li>Middlemiss St between Walker St and Lavender St southbound</li><li>Olympic Dr between Broughton St and Alfred St South westbound\u00a0</li></ul><p><strong>Notes:</strong></p><p>*1 Lavender St remains open westbound. Residents can exit from properties west of Alfred St South via Cliff St or Harbourview Cres to Lavender St westbound. Paul St, Dind St, Glen St and Cliff St closed at Alfred St South.\u00a0Residents can exit from these roads only.\u00a0No entry between 4am and 10am.</p><p>\u00a0</p><p><strong>From 4am to 11am</strong></p><ul><li>Alfred St South between Paul St and Lavender St</li><li>Burton St between Alfred St South and Broughton St</li><li>Fitzroy St between Alfred St South and Broughton St</li></ul><p><strong>Sydney Harbour Bridge and Approaches</strong></p><p><strong>From 4am to 11am</strong></p><ul><li>Bradfield Hwy / Sydney Harbour Bridge*2 all northbound and southbound lanes</li><li>Cahill Expressway between Sydney Harbour Bridge and The Domain Tunnel</li><li>Pacific Hwy between Bradfield Hwy and High St northbound</li><li>Warringah Freeway all access ramps and lanes to and from the Sydney Harbour Bridge</li><li>Western Distributor*3 all access ramps and lanes to and from the Sydney Harbour Bridge</li><li>Harbour St between Bathurst St and The Western Distributor southbound</li></ul><p><strong>Notes:</strong></p><p>*2 The Sydney Harbour Tunnel will remain open in both directions during the event except for use by oversize vehicles or vehicles carrying dangerous goods. These vehicles will be detoured via the Gladesville Bridge and ANZAC Bridge when the Sydney Harbour Bridge is closed.</p><p>*3 The Anzac Bridge will remain open in both directions during the event with the Western Distributor / Bathurst St exit ramp available to provide access to the Sydney CBD and the Cross City Tunnel.\u00a0Following the opening of the Sydney Harbour Bridge at 11am, the Bathurst St exit ramp from the Western Distributor can also be used to access the Sydney Harbour Bridge via Bathurst St &amp; Kent St.</p><p>\u00a0</p><p><strong>Western Distributor</strong></p><p><strong>From 4am to 12pm midday</strong></p><ul><li>Harbour St between Day St and The Western Distributor northbound</li><li>Western Distributor King St/Harbour Bridge Off Ramp northbound</li><li>Western Distributor Fig St on Ramp eastbound</li></ul><p><strong>Western Distributor</strong></p><p><strong>From 4am to 12:30pm</strong></p><ul><li>Western Distributor Pyrmont St on Ramp southbound</li></ul><p><strong>Barangaroo / Centennial Park / Darlinghurst / Dawes Point / Millers Point / Moore Park / Paddington / The Rocks / Surry Hills / Sydney CBD</strong></p><p><strong>From 4am to 11am</strong></p><ul><li>Art Gallery Rd between Hospital Rd and Mrs Macquaries Rd</li><li>Brisbane St between Oxford St and Poplar St</li><li>Centennial Park*4\u00a0</li><li>College St between William St and Oxford St</li><li>Crown St between Arnold Pl and Burton St</li><li>Crown St between Campbell St and Arnold Pl northbound</li><li>Flinders St*5 between Oxford St and Moore Park Rd</li><li>Hannam St between Flinders St and Chisholm St westbound</li><li>Hill St between Flinders St and Clare St</li><li>Hospital Rd*6\u00a0between Shakespeare Pl and Prince Albert Rd northbound</li><li>Linden Ln between Maiden Ln and Flinders St</li><li>Liverpool St between Elizabeth St and College St eastbound</li><li>Mrs Macquaries Rd from Art Gallery Rd</li><li>Oxford St between College St and Darlinghurst Rd</li><li>Palmer St between Burton St and Oxford St</li><li>Patterson Ln between Bourke St and Flinders St</li><li>Pelican St between Poplar St and Oxford St</li><li>Prince Albert Rd</li><li>\u00a0between Hospital Rd and St Marys Rd</li><li>Riley St between Arnold Pl and Oxford St</li><li>Riley St between Campbell St and Arnold Pl northbound</li><li>Short St between Bourke St and Flinders St</li><li>St Marys Rd between Cathedral St and Prince Albert Rd</li><li>Taylor St between Flinders St and Chisholm St eastbound</li></ul><p><strong>Notes:</strong></p><p>*4 Centennial Park is closed to all traffic whilst runners are in the Parklands</p><p>*5 During the closure of Flinders St, access from Albion St to South Dowling St will be maintained along Flinders St under the direction of traffic controllers.</p><p>*6 Between 8am and 10am access to Hospital Rd will be via two way contra flow at Shakespeare Pl.\u00a0At all other times access to Hospital Rd will be via traffic control at St Marys Rd.</p><p>\u00a0</p><p><strong>From 4am to 11:30am</strong></p><ul><li>Albert St*7 between Phillip St and Macquarie St</li><li>Alfred St between Young St and Phillip St</li><li>Bent St between Bligh St and Macquarie St</li><li>Bridge St between Gresham St and Young St\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0eastbound</li><li>Bridge St*7 between Young St and Macquarie St</li><li>College St between Prince Albert Rd and William St</li><li>Conservatorium Rd between Macquarie St and Cahill Expressway (including exit and entry ramp to Cahill Expressway)</li><li>Custom House Lane\u00a0Between Loftus St and Young St</li><li>George St*12 between Essex St and Globe St</li><li>Hunter St\u00a0between Elizabeth St and Macquarie St</li><li>Loftus St between Bridge St and Alfred Street</li><li>Loftus Ln*7 between Young St and Loftus St</li><li>Macquarie St between Bridge St and St James Rd</li><li>Phillip Ln*7 between Phillip St and Macquarie St</li><li>Phillip St between Bridge St and Hunter St</li><li>Phillip St*7 between Alfred St and Bridge St</li><li>Pitt St between Alfred St and Reiby Pl</li><li>Prince Albert Rd\u00a0between Macquarie St and St Marys Rd</li><li>Reiby Pl between Loftus St and Pitt St</li><li>Shakespeare Pl*8 between Macquarie St and Hospital Rd</li><li>St James Rd between Elizabeth St and Macquarie St</li><li>Young St*7 between Bridge St and Alfred St</li></ul><p><strong>\u00a0</strong></p><p><strong>Notes:</strong></p><p>*7 Local access from Albert St, Loftus Ln, Phillip Ln, the Intercontinental Hotel, the Sir Stamford Hotel and Quay Grand Suites will be via traffic control at Bridge St and Phillip St.\u00a0There will be limited access during the road closures and no access from 6am to 7:15am and between 7:45am to 10:30am.\u00a0Directions to vehicles will be via Police &amp; traffic controllers in the area.</p><p>*8 Shakespeare Pl remains a crossover point for eastbound and westbound traffic until 6am.</p><p>*12 Access to the Four Seasons Hotel is via Harrington St.</p><p>\u00a0</p><p><strong>From 4am to 12pm midday</strong></p><ul><li>Barangaroo Ave between Lime St and Barton St</li><li>Barton St between Barangaroo Ave and Hickson Rd</li><li>Erskine St*9 between Shelley St and Kent St</li><li>Hickson Rd Between Barton Street and Napoleon St</li><li>Kent St between Napoleon St and Erskine St southbound</li><li>King St between Elizabeth St and Phillip St</li><li>Macquarie St between Bridge St and the Sydney Opera House</li><li>Napoleon St*11 between Kent St and Sussex St</li><li>Phillip St between Hunter St and King St</li><li>Sussex St between Napoleon St and King St</li><li>Watermans Quay between Barangaroo Av and Hickson Rd</li><li>Wheat Rd Off Ramp*10 between Harbour St and Wheat Rd northbound</li></ul><p><strong>Notes:</strong></p><p>*9 Erskine St will be closed between Shelley St and Sussex St from 6:15am to 11:30am.\u00a0During this time access to and from King St Wharf area will be via Wheat Rd between 6:15am and 10:30am. From 10:30am vehicles exiting the area will be via Erskine Street under the direction of NSW Police</p><p>*10 During the Harbour Bridge closure from 4am to 11am, access to Wheat Rd for Cockle Bay Wharf tenants, residents and deliveries will be via traffic control on Harbour St at Day St.\u00a0Exiting the area will be via two way traffic control on Wheat Rd between 6:15am and 10:30am. From 10:30am vehicles exiting the area will be via Erskine Street under the direction of NSW Police</p><p>*11 Access to building car parks in Napoleon St maintained during event via Kent St.</p><p>\u00a0</p><p><strong>From 4am to 1:30pm</strong></p><ul><li>Argyle St between George St and Circular Quay West</li><li>Circular Quay West from Argyle St</li><li>Dalgety Rd*14\u00a0between Windmill St and Towns Pl northbound</li><li>George St*13 between Globe St and Hickson Rd</li><li>Hickson Rd between George Street and Barton St</li><li>Towns Pl*14 between Dalgety Rd and Hickson Rd</li></ul><p>\u00a0\u00a0<strong>Notes:</strong></p><p>*13 George St between Hickson Rd and Lower Fort St will be closed for the Rocks Markets.</p><p>*14 Access to Barangaroo car park at the intersection of Dalgety Rd and Towns Pl maintained. Access to Towns Pl car park at the intersection of Towns Pl and Hickson Rd maintained via contra flow.</p><p>\u00a0</p><p><strong>From 5:30am to 11am</strong></p><ul><li>Driver Ave*16 between Moore Park Rd and Lang Rd</li><li>Lang Rd*15 between Errol Flynn Blvd and Anzac Pde</li><li>Moore Park Rd*16,*17 between Oxford St and Anzac Pde westbound</li><li>Moore Park Rd*16 between Anzac Pde and Greens Rd eastbound</li><li>South Dowling St between Oxford St and Flinders St southbound</li><li>South Dowling St between Fitzroy St and Flinders St northbound</li></ul><p>\u00a0<strong>Notes:</strong></p><p>*15 Lang Rd will remain open to traffic in both directions until 6:30am</p><p>*16 Access to Driver Ave will reopen at 10:30am.</p><p>*17 Access to Entertainment Quarter is via Oxford St, Oatley Rd, Moore Park Rd eastbound and Cook Rd if Lang Rd is closed at Oxford St southbound due to congestion on Lang Rd.</p><p>\u00a0</p><p><strong>From 7am to 9am</strong></p><ul><li>The Eastern Distributor Off Ramp*18 between The Eastern Distributor and Moore Park Rd eastbound</li></ul><p>\u00a0<strong>Notes:</strong></p><p>*18 The Eastern Distributor off ramp to Anzac Parade (southbound) will remain open at all times during the event.</p><p>\u00a0</p><p><strong>From 7:30am to 10am</strong></p><ul><li>Dibbs St*19 Between Robertson Road and Martin Road\u00a0</li><li>Martin Rd*19 between Robertson Road (northern) and Robertson Road (southern)</li><li>Oxley Ln*19 between Robertson Road (northern) and Robertson Road (southern)</li><li>Robertson Rd*19 between Lang Rd and Martin Rd</li></ul><p><strong>\u00a0Notes:</strong></p><p>*19 Robertson Rd at Lang Rd will be a managed crossing point during the event and will be fully closed between 7:30am and 10am while the bulk of runners cross Robertson Rd.</p><p>\u00a0</p><p><strong>Pyrmont / Ultimo</strong></p><p><strong>From 1am to 12:30pm</strong></p><ul><li>Darling Island Rd*22\u00a0from Pirrama Rd\u00a0</li><li>Fyfe St*22\u00a0between Darling Island Rd and Wharf Cres</li><li>Pirrama Rd between Jones Bay Rd and Harris St</li><li>Trouton Pl from Darling Island Rd</li><li>Wharf Cres*22\u00a0between Darling Island Rd and Darling Island Rd</li></ul><p><strong>\u00a0Notes:</strong></p><p>*22 Resident access maintained from 1am to 6:30am under directions of traffic controllers and NSW Police.\u00a0There will be no resident access from 6:30am to 12:30pm.</p><p>\u00a0</p><p><strong>From 4am to 12pm midday</strong></p><ul><li>Edward Ln between Harwood St and Pyrmont St</li><li>Edward St between Union St and Pyrmont Bridge Rd</li><li>Harwood St between Union Ln and Pyrmont Bridge Rd</li><li>Pyrmont Bridge Rd between Pyrmont St and Union St</li><li>Pyrmont Bridge Rd between Harris St and Pyrmont St eastbound</li><li>Little Edward St between Edward Ln and Pyrmont Bridge Rd</li><li>Union St between Edward St and Murray St</li></ul><p>\u00a0<strong>From 4am to 12:30pm</strong></p><ul><li>Australian National Maritime Museum Driveway At Murray St</li><li>Bank St between Bowman St and Quarry Master Drive</li><li>Bowman St between Harris St and Bank St</li><li>Cadigal Ave*21 between Bowman St and John St</li><li>Harris St between Harvey St and Pirrama Rd</li><li>Harris St between John St and Harvey St northbound</li><li>Harvey St*21\u00a0between Mount St Walk and Harris St</li><li>Jones Bay Rd*23 between Pyrmont St and Pirrama Rd</li><li>Jones St*21 between Bowman St and John St</li><li>Mount St Walk *21 between Harvey St and Refinery Dr</li><li>Murray St between Union St and Pirrama Rd</li><li>Pirrama Rd*20, *22\u00a0between Murray St and Jones Bay Rd</li><li>Pyrmont St24\u00a0between Pyrmont Bridge Rd and Allen St southbound</li><li>Refinery Dr*21 between Bowman St and Mount St Walk</li><li>Tambua St*21 between Bowman St and Distillery Dr</li><li>Wharf 10 Access Road, Pyrmont Bay *22\u00a0from Pirrama Rd\u00a0</li></ul><p>\u00a0<strong>Notes:</strong></p><p>*20 Exit from the Star to occur from Edward St.</p><p>*21 Resident access available from 4am to 8am.\u00a0Access to Refinery Drive available if suitable gaps in marathon race.\u00a0Directions to vehicles will be given by Police and Traffic Controllers in the area.</p><p>*22 Resident access maintained from 4am to 6:30am under directions of traffic controllers and NSW Police.\u00a0There will be no resident access from 6:30am to 12:30pm.</p><p>*23 Access to The Star Taxi &amp; Hire Car plaza maintained.</p><p>*24 Resident access to driveways on western side of Pyrmont St maintained during the event under the direction of Traffic Controllers.</p><p>\u00a0</p><p><strong>Cycleway Closures</strong></p><p>Cycleway closures affect both directions unless stated otherwise. Cycleways will be progressively re-opened by TfNSW and Police after cleaning.</p><p><strong>Pyrmont / Sydney CBD</strong></p><p><strong>From 4am to 12midday </strong></p><ul><li>King St between Sussex St and Kent St</li><li>King St between Elizabeth St and Phillip St</li><li>Union St between Edward St and Murray St</li><li>Western Distributor Shared Path between Pyrmont Bridge and King St</li></ul><p><strong>Moore Park</strong></p><p><strong>From 5:30am to 9am </strong></p><ul><li>Moore Park Road between Cook Rd and Anzac Pde</li></ul><p><strong>From 5:30am to11:00am</strong></p><ul><li>Moore Park Road between Oatley Rd and Anzac Pde\u00a0</li></ul>",
+                        "title": "Road Closures",
+                        "id": "062177"
+                    },
+                    {
+                        "html": "<p>Special event clearways are strict no-parking zones and apply even to local residents, businesses or TfNSW Mobility Scheme Permit holders. Vehicles left in clearways will be towed and a fee applies. Check signs carefully on the day and the night before as clearways come into effect in the early morning. If your vehicle is towed, call <strong>132 701 </strong>to find its new location. Special Event Clearways affect both directions unless stated otherwise. </p><p><br></p><p><strong>Kirribilli / Lavender Bay / Milsons Point / North Sydney</strong></p><p><strong>From 1am to 11:30am</strong></p><ul><li>Alfred St South between Olympic Dr and Lavender St </li><li>Arthur St between Middlemiss St and Pacific Hwy </li><li>Broughton St between Olympic Dr and Burton St </li><li>Burton St between Alfred St South and Broughton St </li><li>Dind St between Alfred St South and Mary Wollstonecraft Ln </li><li>Ennis Rd between Broughton St and Pedestrian Crossing (approx. 40m) </li><li>Fitzroy St between Alfred St South and Broughton St </li><li>Jefferys St between Fitzroy St and No. 50 Jefferys St western side</li><li>Kirribilli Ave between Jeffery St and Broughton St \u00a0</li><li>Lavender St between Arthur St and Alfred St South </li><li>Middlemiss St between Walker St and Lavender St </li><li>Olympic Dr between Broughton St and Alfred St South </li><li>Paul St between Alfred St South and Mary Wollstonecraft Ln </li></ul><p>\u00a0</p><p><strong>Darlinghurst / Dawes Point / The Rocks / Sydney CBD</strong></p><p><strong>From 1am to 11:30am</strong></p><ul><li>Albert St between Macquarie St and Phillip St </li><li>Alfred St between Young St and Phillip St </li><li>Bathurst St between Harbour St and Elizabeth St northern side</li><li>Bathurst St between Castlereagh St and Elizabeth St </li><li>Bayswater Rd between Kellet St and Ward Ave (Authorised Route Buses Excepted) northern side</li><li>Bent St between Bligh St and Macquarie St </li><li>Bligh St between Bent St and Hunter St (Taxis Excepted) eastern side</li><li>Bridge St between George St and Macquarie St </li><li>Castlereagh St between Hunter St and Martin Place (Authorised Route Buses Excepted) </li><li>Castlereagh St between Martin Place and King St (Authorised Route Buses Excepted) eastern side</li><li>Castlereagh St between Market St and Park St (Authorised Route Buses Excepted) western side</li><li>Clarence St between Druitt St and Market St (Authorised Route Buses Excepted) western side</li><li>Clarence St between Druitt St and Market St \u00a0eastern side</li><li>Clarence St between Market Street and King St </li><li>Clarence St between Erskine St and Margaret St (Authorised Route Buses Excepted) eastern side</li><li>College St between Prince Albert Rd and Wentworth Ave </li><li>Conservatorium Rd between Cahill Expressway and Macquarie St </li><li>Craigend St between Nimrod St and Victoria St (Authorised Route Buses Excepted) \u00a0northern side</li><li>Darlinghurst Rd between 70m south of Burton St and Burton St western side</li><li>Druitt St between George St and Kent St </li><li>Elizabeth St between King St and Hunter St (Authorised Route Buses Excepted) western side</li><li>Elizabeth St between King St and Goulburn St </li><li>George St between Essex St and Globe St </li><li>Goulburn St between Elizabeth St and Harbour St southern side</li><li>Harbour St between Goulburn St and Bathurst St </li><li>Hunter St between Bligh St and Macquarie St </li><li>Kent St between Druitt St and Market St western side</li><li>King St between Elizabeth St and Phillip St </li><li>Liverpool St between College St and Castlereagh St northern side</li><li>Liverpool St between Elizabeth St and Pitt St southern side</li><li>Liverpool St between Sussex St and Harbour St </li><li>Loftus St between Bridge St and Alfred Street </li><li>Macquarie St between Sydney Opera House and St James Rd </li><li>Market St between Pitt St and Sussex St southern side</li><li>Park St between College St and George St southern side</li><li>Park St between Castlereagh St and College St northern side</li><li>Pitt St between Alfred St and Bulletin Pl </li><li>Pitt St between Bridge St and Martin Place eastern side</li><li>Phillip St between Alfred St and Hunter St </li><li>Phillip St between Hunter St and King St </li><li>Prince Albert Rd between Macquarie St and Hospital Rd </li><li>Reiby Pl between Loftus St and Pitt St </li><li>Shakespeare Pl between Macquarie St and Hospital Rd </li><li>St James Rd between Elizabeth St and Macquarie St </li><li>Wentworth Ave between Goulburn St and Liverpool St western side</li><li>Wheat Rd between Harbour St entry and Shelley St (except private restaurant parking on western side) </li><li>William St between Forbes St and College St southern side</li><li>York St between Margaret St and Erskine St (Authorised Route Buses Excepted) western side</li><li>Young St between Bridge St and Alfred St </li></ul><p>\u00a0</p><p><strong>Barangaroo / Circular Quay / Dawes Point / Millers Point / Sydney CBD / The Rocks</strong></p><p><strong>From 1am to 1:30pm</strong></p><ul><li>Argyle St between George St and Circular Quay West </li><li>Circular Quay West from Argyle St </li><li>Erskine St between Kent St and Shelly St </li><li>George St between Globe St and Hickson Rd </li><li>Harrington St between Argyle St and 30m south of Argyle St (Police Vehicles Excepted) eastern side</li><li>Hickson Rd between George St and Napoleon St (also includes both sides of carpark between Pottinger St and Pier 1) both sides (including both sides of medians)</li><li>Sussex St between King St and Napoleon St </li><li>Towns Pl between Dalgety Rd and Hickson Rd \u00a0</li></ul><p>\u00a0</p><p><strong>Pyrmont / Ultimo</strong></p><p><strong>From 1am to 12:30pm</strong></p><ul><li>Bank St between Bowman St and Quarry Master Drive </li><li>Bowman St between Harris St and Bank St </li><li>Darling Island Rd between Pirrama Rd and Ballaarat Park </li><li>Edward Ln between Pyrmont St and Harwood St </li><li>Edward St between Pyrmont Bridge Rd and Union St </li><li>Fyfe St between Wharf Cres and Darling Island Rd </li><li>Harris St between Allen St and William Henry St eastern side</li><li>Harris St Between 200 Harris St and Pyrmont Bridge Rd (Route Buses Excepted) eastern side</li><li>Harris St between Scott St and Pirrama Park Playground </li><li>Harwood St between Union Ln and Pyrmont Bridge Rd </li><li>Jones Bay Rd between Pyrmont St and Pirrama Rd </li><li>Little Edward St between Edward Ln and Pyrmont Bridge Rd </li><li>Murray St between Union St and Pirrama Rd </li><li>Pirrama Rd between Harris St and Murray St </li><li>Pyrmont Bridge Rd between Harris St and Union St </li><li>Pyrmont St between Pyrmont Bridge Rd and Allen St </li><li>Trouton Pl between Darling Island Rd and Metcalfe Park </li><li>Union St between Edward St and Murray St </li><li>Wharf Cres between Darling Island Rd and Darling Island Rd </li></ul><p>\u00a0</p><p><strong>North Sydney</strong></p><p><strong>From 4am to 11am</strong></p><ul><li>Pacific Hwy between Blue St and Miller St (Authorised Route Buses Excepted) western side</li><li>Pacific Hwy between Miller St and Walker St (Authorised Route Buses Excepted) eastern side</li><li>Pacific Hwy between Lavender St and Blue St western side</li></ul><p>\u00a0</p><p><strong>Darlinghurst / Moore Park / Sydney CBD / Surry Hills</strong></p><p><strong>From 4am to 11am</strong></p><ul><li>Art Gallery Rd between Hospital Rd and Mrs Macquaries Rd </li><li>Brisbane St \u00a0between Oxford St and Poplar St eastern side</li><li>Brisbane St between Oxford St and Wemyss Ln western side</li><li>Cleveland St \u00a0between South Dowling St and City Rd </li><li>Crown St between Goulburn St and Burton St western side</li><li>Crown St between Burton St and Little Oxford St eastern side</li><li>Driver Ave between Moore Park Rd and Lang Rd </li><li>Fitzroy St between Anzac Pde and Bourke St northern side</li><li>Flinders St between Oxford St and Moore Park Rd </li><li>Foveaux St between Bourke St and Crown St </li><li>Foveaux St between Crown St and Elizabeth St southern side</li><li>Hannam St between Chisholm St and Flinders St </li><li>Hill St between Clare St and Flinders St </li><li>Hospital Rd between Art Gallery Rd and Shakespeare Pl </li><li>Lang Rd between Anzac Pde and Cook Rd </li><li>Linden Ln between Maiden Ln and Flinders St </li><li>Moore Park Rd \u00a0between Poate Rd and Anzac Pde southern side</li><li>Moore Park Rd between Anzac Pde and Driver Ave northern side</li><li>Mrs Macquaries Rd between Art Gallery Rd and Mrs Macquaries Pt </li><li>Oxford St between College St and Darlinghurst Rd </li><li>Oxford St between Greens Rd and Darlinghurst Rd southern side</li><li>Palmer St between Burton St and Oxford St </li><li>Patterson Ln between Bourke St and Flinders St </li><li>Pelican St between Poplar St and Oxford St </li><li>Riley St between Waine St and Oxford St \u00a0western side</li><li>Riley St \u00a0between Oxford St and Arnold Pl eastern side</li><li>Short St between Bourke St and Flinders St </li><li>Taylor St \u00a0between Flinders St and Chisholm St northern side</li></ul>",
+                        "title": "Special Event Clearways",
+                        "id": "062178"
+                    }
+                ],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "duration": null,
+                "start": 1663423200000,
+                "displayName": "Sydney Running Festival",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "",
+                "delay": "",
+                "locationQualifier": "at",
+                "mainStreet": "Sydney Harbour Bridge, Western Distributor",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Sydney",
+                "secondLocation": "",
+                "suburb": "Milsons Point, Sydney CBD, Moore Park, Darlinghurst and Pyrmont",
+                "trafficVolume": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.223734,
+                    -33.894194
+                ]
+            },
+            "properties": {
+                "webLinks": [],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": false,
+                "publicTransport": "Visit\u00a0<a href=\"https://transportnsw.info/events/2022/09/football-friendly-matildas-v-canada\" target=\"_blank\">transportnsw.info\u00a0to plan your trip.",
+                "impactingNetwork": true,
+                "subCategoryB": null,
+                "arrangementAttachments": [
+                    {
+                        "displayName": "Moore Park Transport & Walking Map",
+                        "fileName": "Moore Park Transport & Walking Map.pdf",
+                        "fileType": "PDF",
+                        "linkName": "Moore Park Transport & Walking Map",
+                        "sizeInBytes": 445320,
+                        "uniqueFileName": "844145_1660175234704_Moore Park Transport & Walking Map.pdf"
+                    },
+                    {
+                        "displayName": "Moore Park Game Day Clearway Map",
+                        "fileName": "Moore Park Game Day Clearway Map.pdf",
+                        "fileType": "PDF",
+                        "linkName": "Moore Park Game Day Clearway Map",
+                        "sizeInBytes": 252866,
+                        "uniqueFileName": "822482_1659063113123_Moore Park Game Day Clearway Map.pdf"
+                    }
+                ],
+                "isInitialReport": false,
+                "created": "22 August 2022 1:39PM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Allow extra travel time",
+                "adviceB": "Check signage",
+                "adviceC": " ",
+                "end": 1662465600000,
+                "incidentKind": "Planned",
+                "mainCategory": "SPECIAL EVENT",
+                "lastUpdated": "2 September 2022 1:51PM",
+                "otherAdvice": "Matildas v Canada at\u00a0Allianz Stadium. Kick-off from 7:40pm and full-time around 9:25pm.Traffic will be heavier than usual on roads approaching and around Moore Park including the Eastern Distributor, Moore Park Rd, Cleveland St, Anzac Pde and Lang Rd.Driver Ave will be partially closed outside the stadium before the match from 5pm and will reopen once crowds have safely cleared the area after the game.Access EP2 Kippax car park via Moore Park Rd and the\u00a0EP3 Southern grass car park or Entertainment Quarter car park via Lang Rd (EP2 and EP3 car parks open from 4:45pm). The Eastern Distributor Bondi exit to Moore Park Rd will be closed from 9:30pm to 11pm for the safety of pedestrians leaving the stadium. Use the Randwick exit during this time for access to Moore Park.Special event clearways will be in effect on roads in Moore Park and surrounding areas\u00a0from 3pm until midnight\u00a0including\u00a0sections of Lang Rd, Fitzroy St, Moore Park Rd, Albion St, Chalmers St, Cleveland St, Flinders St and Foveaux St.Clearways are strict no-parking zones even for local residents and Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies.",
+                "arrangementElements": [
+                    {
+                        "html": "<p>Special event clearways are strict no-parking zones even for local residents and Mobility Scheme Parking Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, call 132 701 to find its new location.</p><p><strong>SURRY HILLS / MOORE PARK FROM 3PM TO MIDNIGHT</strong></p><ul><li>Albion Street between Mary Street and Flinders Street (northern side)</li><li>Albion Street between Bourke Street and Flinders Street (southern side)</li><li>Chalmers Street between Cleveland Street and Devonshire Street (western side)</li><li>Cleveland Street between South Dowling Street and City Road (both sides)</li><li>Flinders Street between Albion Street and Moore Park Road (eastern side)</li><li>Fitzroy Street between South Dowling Street and Bourke Street (northern side)</li><li>Foveaux Street between Bourke Street and Crown Street (northern side)</li><li>Lang Road between Cook Road and Anzac Parade (both sides)</li><li>Moore Park Road between Driver Avenue and Anzac Parade (southern side)</li><li>Moore Park Road between Flinders Street and Greens Road (northern side)</li><li>Moore Park Road between Cook Road and Poate Road (southern side)\u00a0</li></ul>",
+                        "title": "Special Event Clearways",
+                        "id": "062577"
+                    }
+                ],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "duration": null,
+                "start": 1662386400000,
+                "displayName": "Football Friendly",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "Allianz Stadium",
+                "delay": "",
+                "locationQualifier": "approaching",
+                "mainStreet": "Moore Park Road, Anzac Parade, Lang Road, Eastern Distributor",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Sydney",
+                "secondLocation": "",
+                "suburb": "Moore Park",
+                "trafficVolume": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.392877,
+                    -35.992429
+                ]
+            },
+            "properties": {
+                "webLinks": [],
+                "headline": "",
+                "periods": [
+                    {
+                        "closureType": "ROAD_CLOSURE",
+                        "roadextent": "Closed",
+                        "roadtype": "Road",
+                        "direction": "Both directions",
+                        "finishTime": "2:00pm",
+                        "fromDay": "Saturday",
+                        "startTime": "9:00am",
+                        "toDay": ""
+                    }
+                ],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": true,
+                "publicTransport": "",
+                "impactingNetwork": true,
+                "subCategoryB": null,
+                "arrangementAttachments": [],
+                "isInitialReport": false,
+                "created": "31 August 2022 2:47PM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Use diversions",
+                "adviceB": "Check signage",
+                "adviceC": " ",
+                "end": 1662782400000,
+                "incidentKind": "Planned",
+                "mainCategory": "SPECIAL EVENT",
+                "lastUpdated": "3 September 2022 12:01AM",
+                "otherAdvice": "",
+                "arrangementElements": [],
+                "diversions": "Detour available via Mary, John and Victoria streets. This detour is suitable for all vehicles. ",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "duration": null,
+                "start": 1662764400000,
+                "displayName": "SPECIAL EVENT - Corowa War Memorial Re-dedication",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "Victoria Street",
+                "delay": "",
+                "locationQualifier": "between",
+                "mainStreet": "Honour Avenue",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "The Murray",
+                "secondLocation": "Mary Street",
+                "suburb": "Corowa",
+                "trafficVolume": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.463774,
+                    -31.959454
+                ]
+            },
+            "properties": {
+                "webLinks": [
+                    {
+                        "linkText": "Broken Heel Festival",
+                        "linkURL": "https://www.bhfestival.com/"
+                    }
+                ],
+                "headline": "",
+                "periods": [
+                    {
+                        "closureType": "ROAD_CLOSURE",
+                        "roadextent": "Affected",
+                        "roadtype": "",
+                        "direction": "All directions",
+                        "finishTime": "",
+                        "fromDay": "Thursday",
+                        "startTime": "12:00pm",
+                        "toDay": ""
+                    },
+                    {
+                        "closureType": "ROAD_CLOSURE",
+                        "roadextent": "Affected",
+                        "roadtype": "",
+                        "direction": "All directions",
+                        "finishTime": "11:59pm",
+                        "fromDay": "Friday",
+                        "startTime": "12:00pm",
+                        "toDay": ""
+                    },
+                    {
+                        "closureType": "ROAD_CLOSURE",
+                        "roadextent": "Affected",
+                        "roadtype": "",
+                        "direction": "All directions",
+                        "finishTime": "11:59pm",
+                        "fromDay": "Saturday",
+                        "startTime": "8:00am",
+                        "toDay": ""
+                    },
+                    {
+                        "closureType": "ROAD_CLOSURE",
+                        "roadextent": "Affected",
+                        "roadtype": "",
+                        "direction": "All directions",
+                        "finishTime": "10:00pm",
+                        "fromDay": "Sunday",
+                        "startTime": "9:00am",
+                        "toDay": ""
+                    },
+                    {
+                        "closureType": "ROAD_CLOSURE",
+                        "roadextent": "Affected",
+                        "roadtype": "",
+                        "direction": "All directions",
+                        "finishTime": "3:00pm",
+                        "fromDay": "Monday",
+                        "startTime": "8:00am",
+                        "toDay": ""
+                    }
+                ],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": false,
+                "publicTransport": "",
+                "impactingNetwork": false,
+                "subCategoryB": null,
+                "arrangementAttachments": [],
+                "isInitialReport": false,
+                "created": "31 August 2022 1:11PM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": " ",
+                "adviceB": " ",
+                "adviceC": " ",
+                "end": 1662966000000,
+                "incidentKind": "Planned",
+                "mainCategory": "SPECIAL EVENT",
+                "lastUpdated": "5 September 2022 8:06AM",
+                "otherAdvice": "",
+                "arrangementElements": [],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "duration": null,
+                "start": 1662602400000,
+                "displayName": "SPECIAL EVENT - Broken Heel Festival",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "Sulphide Street",
+                "delay": "",
+                "locationQualifier": "at",
+                "mainStreet": "Argent Street",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Far West NSW",
+                "secondLocation": "",
+                "suburb": "Broken Hill",
+                "trafficVolume": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.222403,
+                    -33.888388
+                ]
+            },
+            "properties": {
+                "webLinks": [],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": false,
+                "publicTransport": "Travel on transport is included in tickets to the game. Visit\u00a0<a href=\"https://transportnsw.info/events/2022/09/nrl-elimination-final-roosters-v-rabbitohs\" target=\"_blank\">transportnsw.info\u00a0to plan your trip.",
+                "impactingNetwork": true,
+                "subCategoryB": null,
+                "arrangementAttachments": [
+                    {
+                        "displayName": "Moore Park Transport & Walking Map",
+                        "fileName": "Moore Park Transport & Walking Map.pdf",
+                        "fileType": "PDF",
+                        "linkName": "Moore Park Transport & Walking Map",
+                        "sizeInBytes": 445320,
+                        "uniqueFileName": "844145_1660175234704_Moore Park Transport & Walking Map.pdf"
+                    },
+                    {
+                        "displayName": "Moore Park Game Day Clearway Map",
+                        "fileName": "Moore Park Game Day Clearway Map.pdf",
+                        "fileType": "PDF",
+                        "linkName": "Moore Park Game Day Clearway Map",
+                        "sizeInBytes": 252866,
+                        "uniqueFileName": "822482_1659063113123_Moore Park Game Day Clearway Map.pdf"
+                    }
+                ],
+                "isInitialReport": false,
+                "created": "5 September 2022 9:30AM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Allow extra travel time",
+                "adviceB": "Check signage",
+                "adviceC": "Use public transport",
+                "end": 1662885000000,
+                "incidentKind": "Planned",
+                "mainCategory": "SPECIAL EVENT",
+                "lastUpdated": "6 September 2022 9:27AM",
+                "otherAdvice": "NRL Elimination Final: Roosters v Rabbitohs at\u00a0Allianz Stadium. NRLW kick-off at 1:10pm. NRL kick-off from 4:05pm\u00a0and full-time around 6:05pm.Traffic will be heavier than usual on roads approaching and around Moore Park including the Eastern Distributor, Moore Park Rd, Cleveland St, Anzac Pde and Lang Rd.As well, traffic will be heavier than usual around Bondi and the eastern suburbs as the Festival of the Winds event wraps up at Bondi Beach by 4pm ahead of kick off. Driver Ave will be partially closed outside the stadium from 11:45am and will reopen once crowds have safely cleared the area after the game.Access EP2 Kippax car park via Moore Park Rd and the\u00a0EP3 Southern grass car park or Entertainment Quarter car park via Lang Rd. The Eastern Distributor Bondi exit to Moore Park Rd may close for the safety of pedestrians leaving the stadium. Use the Randwick exit during this time for access to Moore Park.Special event clearways will be in effect on roads in Moore Park and surrounding areas\u00a0from 3pm until 8pm including\u00a0sections of Lang Rd, Fitzroy St, Moore Park Rd, Albion St, Chalmers St, Cleveland St, Flinders St and Foveaux St.Clearways are strict no-parking zones even for local residents and Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies.",
+                "arrangementElements": [
+                    {
+                        "html": "<p>Special event clearways are strict no-parking zones even for local residents and Mobility Scheme Parking Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, call 132 701 to find its new location.</p><p><strong>SURRY HILLS / MOORE PARK FROM 3PM TO 8PM</strong></p><ul><li>Albion Street between Mary Street and Flinders Street (northern side)</li><li>Albion Street between Bourke Street and Flinders Street (southern side)</li><li>Chalmers Street between Cleveland Street and Devonshire Street (western side)</li><li>Cleveland Street between South Dowling Street and City Road (both sides)</li><li>Flinders Street between Albion Street and Moore Park Road (eastern side)</li><li>Fitzroy Street between South Dowling Street and Bourke Street (northern side)</li><li>Foveaux Street between Bourke Street and Crown Street (northern side)</li><li>Lang Road between Cook Road and Anzac Parade (both sides)</li><li>Moore Park Road between Driver Avenue and Anzac Parade (southern side)</li><li>Moore Park Road between Flinders Street and Greens Road (northern side)</li><li>Moore Park Road between Cook Road and Poate Road (southern side)\u00a0</li></ul>",
+                        "title": "Special Event Clearways",
+                        "id": "064086"
+                    }
+                ],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "duration": null,
+                "start": 1662818400000,
+                "displayName": "NRL Elimination Final",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "Allianz Stadium",
+                "delay": "",
+                "locationQualifier": "approaching",
+                "mainStreet": "Moore Park Road, Anzac Parade, Lang Road, Eastern Distributor",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Sydney",
+                "secondLocation": "",
+                "suburb": "Moore Park",
+                "trafficVolume": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.684644,
+                    -33.759831
+                ]
+            },
+            "properties": {
+                "webLinks": [],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": false,
+                "publicTransport": "Visit <a href=\"https://transportnsw.info/events/2022/09/nrl-finals-week-1-panthers-v-eels\" target=\"_blank\">transportnsw.info to plan your trip.\u00a0",
+                "impactingNetwork": true,
+                "subCategoryB": null,
+                "arrangementAttachments": [],
+                "isInitialReport": false,
+                "created": "5 September 2022 9:46AM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Allow extra travel time",
+                "adviceB": " ",
+                "adviceC": " ",
+                "end": 1662726600000,
+                "incidentKind": "Planned",
+                "mainCategory": "SPECIAL EVENT",
+                "lastUpdated": "6 September 2022 9:43AM",
+                "otherAdvice": "NRL Finals Week 1: Panthers v Eels at BlueBet Stadium.\u00a0Kick-off from 7:50pm and full-time approx. 9:50pm. Traffic will be heavier than usual on Mulgoa Rd, Jamison Rd and Jane St/Great Western Hwy through Penrith as fans travel to the stadium during the busy Friday evening peak.Motorists should allow extra time and be aware of increased pedestrian activity on local roads.\u00a0",
+                "arrangementElements": [],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "duration": null,
+                "start": 1662645600000,
+                "displayName": "NRL Finals",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "BlueBet Stadium",
+                "delay": "",
+                "locationQualifier": "at",
+                "mainStreet": "Mulgoa Road, Jamison Road",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Sydney",
+                "secondLocation": "",
+                "suburb": "Penrith",
+                "trafficVolume": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.140328,
+                    -34.039387
+                ]
+            },
+            "properties": {
+                "webLinks": [],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": true,
+                "publicTransport": "Visit\u00a0<a href=\"https://transportnsw.info/events/2022/09/nrl-finals-week-1-sharks-v-cowboys\" target=\"_blank\">transportnsw.info to plan your trip.",
+                "impactingNetwork": true,
+                "subCategoryB": null,
+                "arrangementAttachments": [],
+                "isInitialReport": false,
+                "created": "5 September 2022 10:51AM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Allow extra travel time",
+                "adviceB": " ",
+                "adviceC": " ",
+                "end": 1662813000000,
+                "incidentKind": "Planned",
+                "mainCategory": "SPECIAL EVENT",
+                "lastUpdated": "6 September 2022 10:03AM",
+                "otherAdvice": "NRL Finals Week 1: Sharks v Cowboys at PointsBet Stadium in Woolooware. Kick-off from 7:50pm and full-time around 9:50pm.Road closures will be in place on Captain Cook Drive from approximately 10 minutes before kick off and 30 minutes after full time.Traffic on roads approaching the stadium may be heavier than usual including Captain Cook Dr, Woolooware Rd and Gannons Rd.\u00a0Motorists in the area should allow extra travel time and be aware of increased pedestrian activity.",
+                "arrangementElements": [],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "duration": null,
+                "start": 1662732000000,
+                "displayName": "NRL Finals",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "PointsBet Stadium",
+                "delay": "",
+                "locationQualifier": "at",
+                "mainStreet": "Captain Cook Drive",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Sydney",
+                "secondLocation": "",
+                "suburb": "Woolooware",
+                "trafficVolume": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.223485,
+                    -33.891809
+                ]
+            },
+            "properties": {
+                "webLinks": [],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": false,
+                "publicTransport": "Visit\u00a0<a href=\"https://transportnsw.info/events/2022/09/aflw-sydney-swans-v-gws-giants\" target=\"_blank\">transportnsw.info\u00a0to plan your trip.",
+                "impactingNetwork": true,
+                "subCategoryB": null,
+                "arrangementAttachments": [
+                    {
+                        "displayName": "Moore Park Game Day Clearway Map",
+                        "fileName": "Moore Park Game Day Clearway Map.pdf",
+                        "fileType": "PDF",
+                        "linkName": "Moore Park Game Day Clearway Map",
+                        "sizeInBytes": 252866,
+                        "uniqueFileName": "996316_1659052819732_Moore Park Game Day Clearway Map.pdf"
+                    },
+                    {
+                        "displayName": "Moore Park Transport Map",
+                        "fileName": "Moore Park Transport Map.pdf",
+                        "fileType": "PDF",
+                        "linkName": "Moore Park Transport Map",
+                        "sizeInBytes": 943026,
+                        "uniqueFileName": "520113_1659052824159_Moore Park Transport Map.pdf"
+                    }
+                ],
+                "isInitialReport": false,
+                "created": "22 August 2022 2:17PM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Allow extra travel time",
+                "adviceB": "Check signage",
+                "adviceC": " ",
+                "end": 1662793200000,
+                "incidentKind": "Planned",
+                "mainCategory": "SPECIAL EVENT",
+                "lastUpdated": "6 September 2022 12:28PM",
+                "otherAdvice": "AFLW: Sydney Swans v GWS Giants at\u00a0the SCG. First bounce from 2:40pm\u00a0and full-time around 4:20pm.Traffic will be heavier than usual on roads approaching and around Moore Park including the Eastern Distributor, Moore Park Rd, Cleveland St, Anzac Pde and Lang Rd.Driver Ave will be partially closed outside the stadium from 12:30pm and will reopen once crowds have safely cleared the area after the game.Access the Entertainment Quarter car park via Lang Rd. If you&#39;re travelling via the Eastern Distributor use the Randwick exit. Please note, EP2 and EP3 grass car parks will not open for this game.",
+                "arrangementElements": [
+                    {
+                        "html": "<ul><li><br></li></ul>",
+                        "title": "",
+                        "id": "064171"
+                    }
+                ],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "duration": null,
+                "start": 1662732000000,
+                "displayName": "AFLW",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "The Sydney Cricket Ground",
+                "delay": "",
+                "locationQualifier": "approaching",
+                "mainStreet": "Moore Park Road, Anzac Parade, Lang Road, Eastern Distributor",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Sydney",
+                "secondLocation": "",
+                "suburb": "Moore Park",
+                "trafficVolume": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.89247,
+                    -34.403231
+                ]
+            },
+            "properties": {
+                "webLinks": [
+                    {
+                        "linkText": "UCI Road World Championships 2022 - road closures",
+                        "linkURL": "https://wollongong2022.com.au/resident-information-road-closures"
+                    }
+                ],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": false,
+                "publicTransport": "Major bus diversions will be in effect while road closures are in place for the duration of the event. Visit <a href=\"https://transportnsw.info/uci-wollongong-2022\" target=\"_blank\">transportnsw.info for more details and to plan your trip on public transport",
+                "impactingNetwork": false,
+                "subCategoryB": null,
+                "arrangementAttachments": [],
+                "isInitialReport": false,
+                "created": "6 September 2022 4:05PM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Plan your journey",
+                "adviceB": "Check signage",
+                "adviceC": "Allow extra travel time",
+                "end": 1664110800000,
+                "incidentKind": "Planned",
+                "mainCategory": "SPECIAL EVENT",
+                "lastUpdated": "6 September 2022 4:11PM",
+                "otherAdvice": "The UCI Road World Championships will be hosted in Wollongong, with eight days of competitive cycle racing from 18 to 25 September and a training day on Saturday 17 September.Major road closures and extensive special event clearways will be in effect for the duration of the event at various times.The M1 Princes Mwy, Memorial Dr and the Princes Hwy (except for a section in Fairy Meadow) will remain open throughout the event.There will be closures on Lawrence Hargrave Dr, Masters Rd, Springhill Rd, Five Islands Rd and the Princes Hwy at Unanderra on Saturday 24 and Sunday 25 September only.Towradgi Rd and Balgownie Rd will also remain open and provide a connection to the suburbs of Mt Ousley, Fairy Meadow, Towradgi and Balgownie.Road closures for each day are displayed in the interactive maps below<ul><li><a href=\"https://tfnsw.carto.com/u/transport-tmc/viz/14384843-5064-406e-8ae0-e23bca390248/embed_map\" target=\"_blank\">Training - Saturday 17 September\u00a0- closures from 7.30am to 12pm/5pm</li><li><a href=\"https://tfnsw.carto.com/u/transport-tmc/viz/7cc215a4-d140-4ad2-be1e-d48ff13b44a2/embed_map\" target=\"_blank\">Day 1 \u2013 Sunday 18 September\u00a0- closures from 8am to 6pm</li><li><a href=\"https://tfnsw.carto.com/u/transport-tmc/viz/df3b4221-d44c-481e-b292-50e6b40492ff/embed_map\" target=\"_blank\">Day 2 \u2013 Monday 19 September\u00a0- closures from 11.30am to 6pm</li><li><a href=\"https://tfnsw.carto.com/u/transport-tmc/viz/dfaa22f4-36e1-4d99-8c15-460edef8e47a/embed_map\" target=\"_blank\">Day 3 \u2013 Tuesday 20 September\u00a0- closures from 8am to 6pm</li><li><a href=\"https://tfnsw.carto.com/u/transport-tmc/viz/678fc5c8-1778-4069-b216-f7875b8a650e/embed_map\" target=\"_blank\">Day 4 \u2013 Wednesday 21 September\u00a0- closures from 12.30pm to 6pm</li><li><a href=\"https://tfnsw.carto.com/u/transport-tmc/viz/6af1e430-7923-4f87-b8b5-edae96a44638/embed_map\" target=\"_blank\">Day 5 \u2013 Thursday 22 September\u00a0- closures from 8am to 1.30pm</li><li><a href=\"https://tfnsw.carto.com/u/transport-tmc/viz/f4956993-d309-40ea-ac8f-ce0c72c7e46a/embed_map\" target=\"_blank\">Day 6 \u2013 Friday 23 September\u00a0- closures from 7am to 6pm</li><li><a href=\"https://tfnsw.carto.com/u/transport-tmc/viz/40ff122f-4ce3-4f63-8adc-db2e083eef09/embed_map\" target=\"_blank\">Day 7 \u2013 Saturday 24 September\u00a0- closures between 6.45am and 3.30pm</li><li><a href=\"https://tfnsw.carto.com/u/transport-tmc/viz/13e620b1-7e42-4e6c-bb2f-e3ca27e792ce/embed_map\" target=\"_blank\">Day 8 \u2013 Sunday 25 September\u00a0- closures between 8.45am and 6pm</li></ul>Special event clearway parking restrictions will be in effect on various roads along and surrounding the event courses through Wollongong and surrounding suburbs between Thursday 15 September and Sunday 25 September.Clearways are\u00a0strict\u00a0no-parking zones, and apply even for local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully before parking as vehicles left in clearways will be towed and a fee applies.",
+                "arrangementElements": [],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": null,
+                "duration": null,
+                "start": 1663340400000,
+                "displayName": "UCI Road World Championships",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "",
+                "delay": "",
+                "locationQualifier": "at",
+                "mainStreet": "Princes Highway, Corrimal Street, Squires Way, Pioneer Drive",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "South Coast",
+                "secondLocation": "",
+                "suburb": "Wollongong and surrounds",
+                "trafficVolume": ""
+            }
+        }
+    ]
+}

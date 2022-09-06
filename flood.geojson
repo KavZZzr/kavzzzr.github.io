@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.854664,
+                    -29.959611
+                ]
+            },
+            "properties": {
+                "webLinks": [],
+                "headline": "",
+                "periods": [],
+                "speedLimit": -1,
+                "weblinkUrl": null,
+                "expectedDelay": -1,
+                "ended": false,
+                "isNewIncident": true,
+                "publicTransport": "",
+                "impactingNetwork": true,
+                "subCategoryB": null,
+                "arrangementAttachments": [],
+                "isInitialReport": false,
+                "created": "29 August 2022 2:49PM",
+                "isMajor": false,
+                "name": null,
+                "subCategoryA": "null",
+                "adviceA": "Exercise caution",
+                "adviceB": "Never drive through floodwater",
+                "adviceC": "Allow extra travel time",
+                "incidentKind": "Unplanned",
+                "mainCategory": "FLOODING",
+                "lastUpdated": "29 August 2022 2:49PM",
+                "otherAdvice": "",
+                "arrangementElements": [],
+                "diversions": "",
+                "additionalInfo": [],
+                "weblinkName": null,
+                "attendingGroups": [
+                    "Transport for NSW",
+                    "Local Council"
+                ],
+                "displayName": "FLOODING",
+                "media": [],
+                "conditionTendency": "",
+                "crossStreet": "Darling Street",
+                "delay": "",
+                "locationQualifier": "between",
+                "mainStreet": "Kamilaroi Highway",
+                "quadrant": "",
+                "queueLength": 0,
+                "region": "Far West NSW",
+                "secondLocation": "Gardener Street",
+                "suburb": "Brewarrina",
+                "trafficVolume": "",
+                "affectedDirection": "Both directions",
+                "closedLanes": "",
+                "description": "",
+                "extent": "Affected",
+                "numberOfLanes": "",
+                "roadType": ""
+            }
+        }
+    ]
+}

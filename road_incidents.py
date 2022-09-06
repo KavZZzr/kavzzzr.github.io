@@ -1,4 +1,3 @@
-from textwrap import indent
 import requests
 from geojson import Point, Feature, FeatureCollection, dump
 from datetime import datetime
